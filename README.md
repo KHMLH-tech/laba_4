@@ -2,7 +2,7 @@
 ## best ever c++ code
 
 ### Developed by
-  1. Oleksandr - [@lpite] (https://www.github.com/lpite)
+  1. Oleksandr - [@lpite](https://www.github.com/lpite)
   
   ![indian guy](./rilXkENS_400x400.jpg)
   
