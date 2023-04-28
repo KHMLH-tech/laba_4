@@ -10,11 +10,11 @@
   
   ![indian guy2](./no.jpg)
 
-  3. David [@anikea](https://www.github.com/anikea)
+  3. David - [@anikea](https://www.github.com/anikea)
   
   ![indian guy2](./no2.jpg)
 
-  4. Denis [@Wonose](https://www.github.com/@Wonose)
+  4. Denis - [@Wonose](https://www.github.com/@Wonose)
 
   ![indian guy2](./1234.jpg)
 
